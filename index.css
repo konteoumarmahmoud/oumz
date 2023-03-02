@@ -1,0 +1,51 @@
+body{
+      background-color: yellow;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration:dashed;
+    text-shadow: 8px 4px 3px teal;
+  }
+
+  .h1{
+    background: -webkit-linear-gradient(RGBa(255, 000, 000, 0.8), RGBa(255,000, 000, 0.1));
+    background: -o-linear-gradient(RGBa(255, 000, 000, 0.8),RGBa(255,000, 000, 0.1));
+    background: -moz-linear-gradient(RGBa(255, 000, 000, 0.8),RGBa(255,000, 000, 0.1));
+  }
+
+  table{
+    border-collapse: collapse;
+    width: 500px; 
+    text-align: center;
+    height: 500px;
+    
+    border-width: 100px;
+}
+td,th{
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+} 
+  #a{
+    text-align: center;
+   text-transform: capitalize;
+   text-decoration: darkgray;
+    text-shadow: 8px 4px 3px bisque;
+  }
+
+  .b{
+    text-align: center;
+  }
+ 
+ #k{
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: darkgray;
+   text-shadow: 8px 4px 3px bisque;
+   color: red;
+   
+  
+ 
+ } 
+  
